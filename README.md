@@ -10,7 +10,7 @@ Solves hcaptcha on any site
 
 ## Installation
 
-```pip install pyppeteer-hcaptcha-solver```
+```pip install pyppeteerhcaptcha```
 
 ## License:
 
