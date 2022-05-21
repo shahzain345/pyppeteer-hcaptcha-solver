@@ -35,4 +35,5 @@ asyncio.get_event_loop().run_until_complete(main())
 ```
 
 ## Pyppeteer Hcaptcha In Action
+
 ![](https://hi.shahzain.me/r/pyppeteer-hcaptcha.gif)
